@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1643365078 source:c:\users\jiray\documents\cardv\cardv\card.cpp
+	"Card.h"
+
+1643365078 c:\users\jiray\documents\cardv\cardv\card.h
+	<iostream>
+
+1643417733 source:c:\users\jiray\documents\cardv\cardv\main.cpp
+	<iostream>
+	<ctime>
+	"Card.h"
+	"Pile.h"
+	<windows.h>
+
+1643366875 c:\users\jiray\documents\cardv\cardv\pile.h
+	"Card.h"
+	<vector>
+
+1643366875 source:c:\users\jiray\documents\cardv\cardv\pile.cpp
+	<vector>
+	<algorithm>
+	<ctime>
+	"Pile.h"
+
+1645091632 source:c:\users\pedji\documents\cardv\main.cpp
+	<iostream>
+	<ctime>
+	"Card.h"
+	"Pile.h"
+	<windows.h>
+
+1645091615 c:\users\pedji\documents\cardv\card.h
+	<iostream>
+
+1645091615 c:\users\pedji\documents\cardv\pile.h
+	"Card.h"
+	<vector>
+
+1645091342 source:c:\users\pedji\documents\cardv\pile.cpp
+	<vector>
+	<algorithm>
+	<ctime>
+	"Pile.h"
+
+1645091342 source:c:\users\pedji\documents\cardv\card.cpp
+	"Card.h"
+
+1645096836 source:c:\users\pedji\desktop\cardv\card.cpp
+	"Card.h"
+
+1645100620 c:\users\pedji\desktop\cardv\card.h
+	<iostream>
+
+1645100620 source:c:\users\pedji\desktop\cardv\pile.cpp
+	<vector>
+	<algorithm>
+	<ctime>
+	"Pile.h"
+
+1645100620 c:\users\pedji\desktop\cardv\pile.h
+	"Card.h"
+	<vector>
+

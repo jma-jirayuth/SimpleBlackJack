@@ -1,0 +1,3 @@
+C:/Users/Suratcha Kamolapnus/Desktop/C11_CardGame_WithComment/cardv/cmake-build-debug/CMakeFiles/cardv.dir
+C:/Users/Suratcha Kamolapnus/Desktop/C11_CardGame_WithComment/cardv/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Suratcha Kamolapnus/Desktop/C11_CardGame_WithComment/cardv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
